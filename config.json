@@ -1,6 +1,6 @@
 {
     
-    "poolname": "KawPow Coins Pool",
+    "poolname": "Raven Pool",
     
     "devmode": false,
     "devmodePayMinimim": 0.25,
@@ -16,7 +16,7 @@
     
     "poollogo": "https://zelcash.github.io/zeltrez.io/images/logos/Ravencoin.svg",
     
-    "discordtwitterfacebook": "Join our #mining channel on Discord: <a href='https://discord.gg/vzcbVNW' target='_blank'>https://discord.gg/vzcbVNW</a>",
+    "discordtwitterfacebook": "Join our #mining channel on Discord: <a href='https://discord.gg/' target='_blank'>https://discord.gg/</a>",
     
     "pagetitle": "KawPow Coins Pool - 1% Fees Promo - Run by professionals",
     "pageauthor": "My Name Is...",
@@ -65,7 +65,7 @@
         "sslenabled": false,
         "sslforced": false,
         "host": "0.0.0.0",
-        "port": 80,
+        "port": 8080,
         "sslport": 443,
         "sslkey": "~/nomp-kawpow-pool/certs/privkey.pem",
         "sslcert": "~/nomp-kawpow-pool/certs/fullchain.pem",
