@@ -59,6 +59,7 @@
         "ip-anonymize": "^0.1.0",
         "ls": "^0.2.1",
         "mime-types": "^2.1.21",
+        "merkle-bitcoin": "https://github.com/Original-Tasty/merkle-bitcoin.git",
         "moment": "^2.23.0",
         "multi-hashing": "git+https://github.com/goodthebest/node-multi-hashing-2.git",
         "mysql": "^2.16.0",
